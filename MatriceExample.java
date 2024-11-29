@@ -60,4 +60,5 @@ public class MatriceExample {
         boolean verifica = verificaMatrice(M);
         System.out.println("La matrice soddisfa la condizione? " + verifica);
     }
+    
 }
